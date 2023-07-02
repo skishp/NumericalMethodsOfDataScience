@@ -1,0 +1,5 @@
+Exercise 01
+
+a) genau so viele Pixel wie das orginale Bild
+b) nicht mehr 3*(mn) sondern 3(m*k + k*n + k) 
+c) wenn k =r verlieren wir keine Infos, wenn k<r sparen wir speicherplatz
